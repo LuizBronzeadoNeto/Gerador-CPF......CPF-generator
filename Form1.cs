@@ -1,4 +1,4 @@
-public static string Generator()
+        public static string Generator()
         {
             string CPF;
             Random random = new Random();
