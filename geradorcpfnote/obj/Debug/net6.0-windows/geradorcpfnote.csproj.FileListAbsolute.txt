@@ -1,0 +1,17 @@
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\bin\Debug\net6.0-windows\geradorcpfnote.exe
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\bin\Debug\net6.0-windows\geradorcpfnote.deps.json
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\bin\Debug\net6.0-windows\geradorcpfnote.runtimeconfig.json
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\bin\Debug\net6.0-windows\geradorcpfnote.dll
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\bin\Debug\net6.0-windows\geradorcpfnote.pdb
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.Form1.resources
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.csproj.GenerateResource.cache
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.AssemblyInfo.cs
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.dll
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\refint\geradorcpfnote.dll
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.pdb
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\geradorcpfnote.genruntimeconfig.cache
+C:\Users\Luis\source\repos\geradorcpfnote\geradorcpfnote\obj\Debug\net6.0-windows\ref\geradorcpfnote.dll
