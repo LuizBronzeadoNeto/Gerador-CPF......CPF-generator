@@ -1,4 +1,4 @@
-# Gerador-CPF
+# Gerador-CPF/CPF-Generator
 Português:
 Este programa tem como propósito gerar um Cadastro de Pessoa Física(CPF) válido, a matemática encontrada neste programa pode ser encontrada em: http://clubes.obmep.org.br/blog/a-matematica-nos-documentos-cpf/
 
